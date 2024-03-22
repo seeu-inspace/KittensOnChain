@@ -24,11 +24,12 @@ There are three main folders:
 **Note:** You must import the account used to mint NFTs to your Metamask and set up Anvil before proceeding. Check and modify [Makefile](Makefile) accordingly.
 
 **To deploy the contract**
-1. Open Metamask and ensure you are not on Anvil chain
-2. Open a terminal from the directory `KittensOnChain`
-3. Run the command `make all`
-4. Run the command `make anvil`
-5. In another terminal in the same directory, run the command `make deploy`
+1. In your web browser, open Metamask and ensure you are not on Anvil chain
+2. Download this repository, you can use the command `git clone https://github.com/seeu-inspace/KittensOnChain.git`
+3. Open a terminal from the directory `KittensOnChain`
+4. Run the command `make all`
+5. Run the command `make anvil`
+6. In another terminal in the same directory, run the command `make deploy`
 
 **To see your NFT**
 1. Mint your NFT with the command `make mint`
