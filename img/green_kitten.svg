@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="80" r="60" fill="#85f694" />
+    <path d="m40 20q70 180 60 20 20-30 50 10" fill="#85f694" />
+    <path d="m160 20q-70 180-60 20-20-30-50 10" fill="#85f694" />
+    <circle cx="80" cy="70" r="10" />
+    <circle cx="120" cy="70" r="10" />
+    <circle cx="100" cy="85" r="5" />
+    <path d="m80 100q10 10 20 0 10 10 20 0" fill="none" stroke="#000" stroke-width="4" />
+    <path d="m80 90q-40-10-50 0" fill="none" stroke="#000" stroke-width="2" />
+    <path d="m120 90q40-10 50 0" fill="none" stroke="#000" stroke-width="2" />
+</svg>
