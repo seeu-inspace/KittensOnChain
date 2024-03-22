@@ -1,6 +1,6 @@
 # KittensOnChain
 
-KittensOnChain is a NFT project aim to fix the problem that there are not enough cats on the blockchain. This project was created while following the course "[Cifryn Updraft: Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry)" [[Reference](https://github.com/Cyfrin/foundry-nft-f23/)]. The contracts were built using [Foundry](https://book.getfoundry.sh/). The images were created using the AI [ChatGPT](https://openai.com/chatgpt) by [OpenAI](https://openai.com/).
+KittensOnChain is a NFT project aim to fix the problem that there are not enough cats on the blockchain. This project was created while following the course "[Cifryn Updraft: Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry)" [[Reference](https://github.com/Cyfrin/foundry-nft-f23/)]. The contracts were built using [Foundry](https://book.getfoundry.sh/). The images were created with the help of the AI [ChatGPT](https://openai.com/chatgpt) by [OpenAI](https://openai.com/).
 
 
 | Index |
